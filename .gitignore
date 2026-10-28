@@ -1,0 +1,5 @@
+/.vscode
+/.gdb_history
+/.clangd
+/tags
+/.cache/clangd
